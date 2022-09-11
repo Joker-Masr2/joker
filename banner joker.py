@@ -5,7 +5,7 @@
 
 from os import system, path #####R
 from time import sleep ######ed
-import base64   ########Vairus6
+import base64   ########
 from webbrowser import open_new as tab
 
 ##########################
